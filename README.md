@@ -13,7 +13,7 @@ This AI-powered chatbot, envisioned as a truth-seeking entity, aims to revolutio
 
 AI chatbot designed to prioritize factual accuracy and combat misinformation. Its name suggests a combination of truth-seeking ("Truth") with the elimination of AI-generated hallucinations or misleading information ("hallucination eliminating").
 
-In a world of growing problem of disinformation and the need for reliable sources of information. If successful, TruthGPT could be a valuable tool for journalists, researchers, and anyone seeking accurate information.
+In a world of growing problem of disinformation and the need for reliable sources of information, TruthGPT could be a valuable tool for journalists, researchers, and anyone seeking accurate information.
 
 [![author][author-image]][author-url]
 [![license][license-image]][license-url]
