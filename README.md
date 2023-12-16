@@ -5,7 +5,8 @@
 
 <div align="center">
 
-### TruthGPT is a truth seeking hallicination eliminating chatbot
+#### Embracing Authenticity Over ChatGPT
+#### A truth seeking, hallicination eliminating chatbot
 
 
 This AI-powered chatbot, envisioned as a truth-seeking entity, aims to revolutionize the field and address the limitations and drawbacks associated with generative AI. As underlying mechanism it cross validates every generated statement from another source to be sure.
